@@ -20,3 +20,6 @@ Implentar a arvore binaria em com as seguintes entradas/saidas:
 * 16. ROTAÇÃO DUPLA A ESQUERDA
 * 17. CRIAR A ESTRUTURA DA ARVORE
 * 18. JÀ FAZER BALANCEAMENTO CONFORME INSERÇÂO/REMOÇÂO
+* 
+
+https://www.vivaolinux.com.br/script/Arvore-binaria-AVL
